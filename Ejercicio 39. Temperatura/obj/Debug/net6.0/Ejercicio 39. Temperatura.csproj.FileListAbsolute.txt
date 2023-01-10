@@ -1,0 +1,15 @@
+C:\Users\master\source\repos\Ejercicio 39. Temperatura\Ejercicio 39. Temperatura\bin\Debug\net6.0\Ejercicio 39. Temperatura.exe
+C:\Users\master\source\repos\Ejercicio 39. Temperatura\Ejercicio 39. Temperatura\bin\Debug\net6.0\Ejercicio 39. Temperatura.deps.json
+C:\Users\master\source\repos\Ejercicio 39. Temperatura\Ejercicio 39. Temperatura\bin\Debug\net6.0\Ejercicio 39. Temperatura.runtimeconfig.json
+C:\Users\master\source\repos\Ejercicio 39. Temperatura\Ejercicio 39. Temperatura\bin\Debug\net6.0\Ejercicio 39. Temperatura.dll
+C:\Users\master\source\repos\Ejercicio 39. Temperatura\Ejercicio 39. Temperatura\bin\Debug\net6.0\Ejercicio 39. Temperatura.pdb
+C:\Users\master\source\repos\Ejercicio 39. Temperatura\Ejercicio 39. Temperatura\obj\Debug\net6.0\Ejercicio 39. Temperatura.csproj.AssemblyReference.cache
+C:\Users\master\source\repos\Ejercicio 39. Temperatura\Ejercicio 39. Temperatura\obj\Debug\net6.0\Ejercicio 39. Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\master\source\repos\Ejercicio 39. Temperatura\Ejercicio 39. Temperatura\obj\Debug\net6.0\Ejercicio 39. Temperatura.AssemblyInfoInputs.cache
+C:\Users\master\source\repos\Ejercicio 39. Temperatura\Ejercicio 39. Temperatura\obj\Debug\net6.0\Ejercicio 39. Temperatura.AssemblyInfo.cs
+C:\Users\master\source\repos\Ejercicio 39. Temperatura\Ejercicio 39. Temperatura\obj\Debug\net6.0\Ejercicio 39. Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\Ejercicio 39. Temperatura\Ejercicio 39. Temperatura\obj\Debug\net6.0\Ejercicio 39. Temperatura.dll
+C:\Users\master\source\repos\Ejercicio 39. Temperatura\Ejercicio 39. Temperatura\obj\Debug\net6.0\refint\Ejercicio 39. Temperatura.dll
+C:\Users\master\source\repos\Ejercicio 39. Temperatura\Ejercicio 39. Temperatura\obj\Debug\net6.0\Ejercicio 39. Temperatura.pdb
+C:\Users\master\source\repos\Ejercicio 39. Temperatura\Ejercicio 39. Temperatura\obj\Debug\net6.0\Ejercicio 39. Temperatura.genruntimeconfig.cache
+C:\Users\master\source\repos\Ejercicio 39. Temperatura\Ejercicio 39. Temperatura\obj\Debug\net6.0\ref\Ejercicio 39. Temperatura.dll
